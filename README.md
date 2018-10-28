@@ -1,4 +1,5 @@
 Arduino
+<img src="https://avatars2.githubusercontent.com/u/379109?s=200&v=4" width="05%">
 ========
 
 * Arduino is an open-source physical computing platform based on a simple I/O
